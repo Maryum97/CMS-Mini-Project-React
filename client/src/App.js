@@ -4,7 +4,7 @@ import Home from "./pages/Home";
 import Detail from "./pages/Detail";
 import NoMatch from "./pages/NoMatch";
 import Nav from "./components/Nav";
-import FavoritesList from "./pages/FavoritesList";
+import FavoritesList from "./pages/FavouritesList";
 
 function App() {
   return (
